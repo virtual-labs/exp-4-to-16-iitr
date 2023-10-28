@@ -1,39 +1,10 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+[{"question":"Using 3-to-8 line Decoder we can construct \u000A a.  4 to 16 decoder\\n b.  5 to 32 decoder\\n c.  2 to 4 decoder\\n d.  3 to 10 decoder","answers":{"a":"Only a","b":"Both a & d","c":"All","d":"Only a & b"},"correctAnswer":"d"},
+{"question":"IC 74138 can be used for","answers":{"a":"1 to 8 demultiplexer only","b":"3 to 8 decoder only","c":"3 to 10 decoder only","d":"Both (A) & (B)"},"correctAnswer":"d"},
+{"question":"Number of 74138 ICs required to get 1 to 24 Decoder is","answers":{"a":"3","b":"2","c":"4","d":"1"},"correctAnswer":"a"},
+{"question":"How many 3- to -8 line decoders are required for 1-to 13 -decoder?","answers":{"a":"3","b":"2","c":"4","d":"1"},"correctAnswer":"c"},
+{"question":"Which gate is used with four 74138 ICs to get 5 to 32 Decoder?","answers":{"a":"AND gate","b":"OR gate","c":"XOR gate","d":"NOT gate"},"correctAnswer":"d"},
+{"question":"A circuit which converts some binary code into a singular active output representing its numerical value is a","answers":{"a":"Demultiplexer","b":"Comparator","c":"Decoder","d":"Multiplexer"},"correctAnswer":"c"},
+{"question":"The delay time of IC 74138 is _______ the typical access time of the memory.","answers":{"a":"Short propagation delay times","b":"Large propagation delay times","c":"Very large propagation delay times","d":"None of the above"},"correctAnswer":"a"},
+{"question":"Which of the following represents number of output lines for decoder with four input lines?","answers":{"a":"14","b":"15","c":"16","d":"17"},"correctAnswer":"c"},
+{"question":"_______ are used for converting one type of number system into another type of number system.","answers":{"a":"Decoder","b":"Logic gate","c":"Half adder","d":"Full adder"},"correctAnswer":"a"},
+{"question":"Which line goes low if the input to the 3-to-8 decoder (74LS138) (A\u2081 - A\u2080) = 1101111…","image":"images/posttestques10.1.png","answers":{"a":"1","b":"3","c":"5","d":"6"},"correctAnswer":"b"}]
